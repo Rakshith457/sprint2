@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-10T18:28:43Z" name="Suite" finished-at="2022-06-10T18:29:47Z" duration-ms="63744">
+    <groups>
+    </groups>
+    <test started-at="2022-06-10T18:28:43Z" name="Validating Register page" finished-at="2022-06-10T18:28:53Z" duration-ms="9625">
+      <class name="academy.Validateregisterpage">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:academy.Validateregisterpage@d5ae57e]" started-at="2022-06-10T23:58:43Z" name="initialize" finished-at="2022-06-10T23:58:45Z" duration-ms="1275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="Registerpage()[pri:0, instance:academy.Validateregisterpage@d5ae57e]" started-at="2022-06-10T23:58:45Z" name="Registerpage" finished-at="2022-06-10T23:58:53Z" duration-ms="8253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registerpage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:academy.Validateregisterpage@d5ae57e]" started-at="2022-06-10T23:58:53Z" name="teardown" finished-at="2022-06-10T23:58:53Z" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- academy.Validateregisterpage -->
+    </test> <!-- Validating Register page -->
+    <test started-at="2022-06-10T18:28:53Z" name="Validating Editmyinformation page" finished-at="2022-06-10T18:29:06Z" duration-ms="13156">
+      <class name="academy.Validateeditinformation">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:academy.Validateeditinformation@53e211ee]" started-at="2022-06-10T23:58:53Z" name="initialize" finished-at="2022-06-10T23:58:57Z" duration-ms="4277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="editinformation()[pri:0, instance:academy.Validateeditinformation@53e211ee]" started-at="2022-06-10T23:58:57Z" name="editinformation" finished-at="2022-06-10T23:59:06Z" duration-ms="8780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editinformation -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:academy.Validateeditinformation@53e211ee]" started-at="2022-06-10T23:59:06Z" name="teardown" finished-at="2022-06-10T23:59:06Z" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- academy.Validateeditinformation -->
+    </test> <!-- Validating Editmyinformation page -->
+    <test started-at="2022-06-10T18:29:06Z" name="Validating login page" finished-at="2022-06-10T18:29:14Z" duration-ms="8274">
+      <class name="academy.Validateloginpage">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:academy.Validateloginpage@4f936da8]" started-at="2022-06-10T23:59:06Z" name="initialize" finished-at="2022-06-10T23:59:11Z" duration-ms="4445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="Myloginpage()[pri:0, instance:academy.Validateloginpage@4f936da8]" started-at="2022-06-10T23:59:11Z" name="Myloginpage" finished-at="2022-06-10T23:59:14Z" duration-ms="3718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Myloginpage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:academy.Validateloginpage@4f936da8]" started-at="2022-06-10T23:59:14Z" name="teardown" finished-at="2022-06-10T23:59:14Z" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- academy.Validateloginpage -->
+    </test> <!-- Validating login page -->
+    <test started-at="2022-06-10T18:29:14Z" name="Validating change password" finished-at="2022-06-10T18:29:28Z" duration-ms="13298">
+      <class name="academy.ValidateChangepassword">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:academy.ValidateChangepassword@3e2943ab]" started-at="2022-06-10T23:59:14Z" name="initialize" finished-at="2022-06-10T23:59:19Z" duration-ms="4333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="changepassword()[pri:0, instance:academy.ValidateChangepassword@3e2943ab]" started-at="2022-06-10T23:59:19Z" name="changepassword" finished-at="2022-06-10T23:59:28Z" duration-ms="8877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changepassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:academy.ValidateChangepassword@3e2943ab]" started-at="2022-06-10T23:59:28Z" name="teardown" finished-at="2022-06-10T23:59:28Z" duration-ms="87" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- academy.ValidateChangepassword -->
+    </test> <!-- Validating change password -->
+    <test started-at="2022-06-10T18:29:28Z" name="Validating addressentry page" finished-at="2022-06-10T18:29:47Z" duration-ms="19353">
+      <class name="academy.Validateaddressbookentries">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:academy.Validateaddressbookentries@9635fa]" started-at="2022-06-10T23:59:28Z" name="initialize" finished-at="2022-06-10T23:59:32Z" duration-ms="4502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="modifyaddressbookentries()[pri:0, instance:academy.Validateaddressbookentries@9635fa]" started-at="2022-06-10T23:59:32Z" name="modifyaddressbookentries" finished-at="2022-06-10T23:59:47Z" duration-ms="14709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyaddressbookentries -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:academy.Validateaddressbookentries@9635fa]" started-at="2022-06-10T23:59:47Z" name="teardown" finished-at="2022-06-10T23:59:47Z" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- academy.Validateaddressbookentries -->
+    </test> <!-- Validating addressentry page -->
+  </suite> <!-- Suite -->
+</testng-results>
